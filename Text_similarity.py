@@ -10,3 +10,12 @@ print(vectors)
 
 similarity=cosine_similarity(vectors[0],vectors[1])
 print(similarity)
+
+
+
+# Jaccard similarity
+def jaccard_similarity(text1, text2):
+    set1, set2 = set(text1.split()), set(text2.split())
+    return len(set1 & set2) / len(set1 | set2)
+
+print(jaccard_similarity("I love NLP", "NLP is amazing")) 
