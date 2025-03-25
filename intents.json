@@ -1,0 +1,116 @@
+{
+    "intents": [
+      {
+        "intent": "greeting",
+        "examples": [
+          "Hi",
+          "Hello",
+          "Hey there",
+          "Good morning",
+          "Good evening"
+        ],
+        "responses": [
+          "Hello! How can I assist you today?",
+          "Hi there! What do you need help with?"
+        ]
+      },
+      {
+        "intent": "course_information",
+        "examples": [
+          "What courses are available?",
+          "Can you list the courses?",
+          "Show me the available courses"
+        ],
+        "responses": [
+          "Here are the available courses: [Course List]",
+          "You can enroll in courses like Python, Data Science, and Web Development."
+        ]
+      },
+      {
+        "intent": "course_enrollment",
+        "examples": [
+          "How do I enroll in a course?",
+          "I want to join a course",
+          "Sign me up for a course"
+        ],
+        "responses": [
+          "To enroll in a course, visit the course page and click on 'Enroll'.",
+          "You can sign up for a course by selecting it from the dashboard."
+        ]
+      },
+      {
+        "intent": "instructor_info",
+        "examples": [
+          "Who is teaching the Python course?",
+          "Tell me about the instructor for Data Science",
+          "Who are the instructors?"
+        ],
+        "responses": [
+          "The Python course is taught by [Instructor Name].",
+          "[Instructor Name] is the instructor for this course. You can view their profile for more details."
+        ]
+      },
+      {
+        "intent": "course_progress",
+        "examples": [
+          "What is my progress in the course?",
+          "How far am I in my course?",
+          "Check my course completion status"
+        ],
+        "responses": [
+          "You have completed 40% of your course. Keep going!",
+          "Your progress: 70% completed. Well done!"
+        ]
+      },
+      {
+        "intent": "material_download",
+        "examples": [
+          "Where can I download the course materials?",
+          "How do I access course PDFs?",
+          "Can I get the lecture notes?"
+        ],
+        "responses": [
+          "You can download the course materials from the 'Resources' section of your course page.",
+          "Lecture notes and PDFs are available in the course dashboard."
+        ]
+      },
+      {
+        "intent": "assignment_submission",
+        "examples": [
+          "How do I submit my assignment?",
+          "Where can I upload my assignment?",
+          "Submit assignment"
+        ],
+        "responses": [
+          "You can submit your assignment by going to the 'Assignments' section and clicking 'Upload'.",
+          "Upload your assignment in the 'Submissions' tab before the deadline."
+        ]
+      },
+      {
+        "intent": "technical_support",
+        "examples": [
+          "I am facing issues with the website",
+          "My video lectures are not loading",
+          "There is a problem with my account"
+        ],
+        "responses": [
+          "Please contact support at support@elearning.com or visit the 'Help' section.",
+          "Try clearing your cache or refreshing the page. If the issue persists, contact support."
+        ]
+      },
+      {
+        "intent": "goodbye",
+        "examples": [
+          "Bye",
+          "Goodbye",
+          "See you later",
+          "Thanks, bye!"
+        ],
+        "responses": [
+          "Goodbye! Have a great day!",
+          "See you soon! Keep learning."
+        ]
+      }
+    ]
+  }
+  
