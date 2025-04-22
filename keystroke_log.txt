@@ -1,0 +1,108 @@
+2025-04-22 06:59:49.080313 - Key pressed: x
+2025-04-22 06:59:49.414659 - Key pressed: j
+2025-04-22 06:59:49.631814 - Key pressed: s
+2025-04-22 06:59:49.817978 - Key pressed: n
+2025-04-22 06:59:50.345967 - Key pressed: k
+2025-04-22 06:59:50.364112 - Key pressed: m
+2025-04-22 06:59:51.512375 - Key pressed: b
+2025-04-22 06:59:51.796938 - Key pressed: r
+2025-04-22 06:59:51.996777 - Key pressed: a
+2025-04-22 06:59:52.636848 - Key pressed: i
+2025-04-22 06:59:52.760312 - Key pressed: s
+2025-04-22 06:59:52.821054 - Key pressed: o
+2025-04-22 06:59:53.047734 - Key pressed: n
+2025-04-22 07:00:12.055680 - Key pressed: n
+2025-04-22 07:00:12.287774 - Key pressed: s
+2025-04-22 07:00:12.380294 - Key pressed: j
+2025-04-22 07:00:12.707308 - Key pressed: n
+2025-04-22 07:00:12.977459 - Key pressed: s
+2025-04-22 07:00:13.164983 - Key pressed: j
+2025-04-22 07:00:14.163916 - Key pressed: i
+2025-04-22 07:00:14.634924 - Key pressed: o
+2025-04-22 07:00:14.830709 - Key pressed: o
+2025-04-22 07:00:14.995369 - Key pressed: q
+2025-04-22 07:00:15.321679 - Key pressed: k
+2025-04-22 07:00:16.123794 - Key pressed: 2
+2025-04-22 07:00:16.475308 - Key pressed: 3
+2025-04-22 07:00:16.710005 - Key pressed: 3
+2025-04-22 07:00:48.955297 - Special key pressed: Key.backspace
+2025-04-22 07:00:49.270614 - Special key pressed: Key.backspace
+2025-04-22 07:00:50.361823 - Key pressed: i
+2025-04-22 07:00:50.771184 - Special key pressed: Key.space
+2025-04-22 07:00:50.885341 - Key pressed: w
+2025-04-22 07:00:51.154053 - Key pressed: a
+2025-04-22 07:00:51.278898 - Key pressed: n
+2025-04-22 07:00:51.758525 - Key pressed: t
+2025-04-22 07:00:52.519977 - Special key pressed: Key.space
+2025-04-22 07:00:53.157620 - Key pressed: i
+2025-04-22 07:00:53.502348 - Key pressed: t
+2025-04-22 07:00:53.679225 - Special key pressed: Key.space
+2025-04-22 07:00:54.838110 - Key pressed: t
+2025-04-22 07:00:54.993825 - Key pressed: o
+2025-04-22 07:00:55.299856 - Special key pressed: Key.space
+2025-04-22 07:00:56.552992 - Key pressed: s
+2025-04-22 07:00:57.490624 - Key pressed: t
+2025-04-22 07:00:58.063625 - Key pressed: o
+2025-04-22 07:00:58.292512 - Key pressed: k
+2025-04-22 07:00:58.727950 - Special key pressed: Key.backspace
+2025-04-22 07:00:58.897745 - Key pressed: r
+2025-04-22 07:00:59.139067 - Key pressed: e
+2025-04-22 07:00:59.205620 - Special key pressed: Key.space
+2025-04-22 07:00:59.759375 - Key pressed: t
+2025-04-22 07:00:59.954164 - Key pressed: h
+2025-04-22 07:01:00.076558 - Key pressed: e
+2025-04-22 07:01:00.157873 - Special key pressed: Key.space
+2025-04-22 07:01:02.245570 - Key pressed: k
+2025-04-22 07:01:11.380979 - Key pressed: e
+2025-04-22 07:01:11.625154 - Key pressed: y
+2025-04-22 07:01:12.425086 - Key pressed: s
+2025-04-22 07:01:12.865083 - Key pressed: t
+2025-04-22 07:01:13.641074 - Key pressed: r
+2025-04-22 07:01:15.141334 - Key pressed: o
+2025-04-22 07:01:15.390928 - Key pressed: k
+2025-04-22 07:01:15.556891 - Key pressed: e
+2025-04-22 07:01:15.814162 - Key pressed: s
+2025-04-22 07:01:15.983783 - Special key pressed: Key.space
+2025-04-22 07:01:16.548255 - Key pressed: i
+2025-04-22 07:01:16.732863 - Key pressed: n
+2025-04-22 07:01:16.903504 - Special key pressed: Key.space
+2025-04-22 07:01:17.083634 - Key pressed: a
+2025-04-22 07:01:17.263927 - Special key pressed: Key.space
+2025-04-22 07:01:17.805027 - Key pressed: p
+2025-04-22 07:01:18.899537 - Key pressed: d
+2025-04-22 07:01:19.657918 - Key pressed: f
+2025-04-22 07:01:24.766031 - Special key pressed: Key.space
+2025-04-22 07:01:25.553485 - Key pressed: u
+2025-04-22 07:01:25.893876 - Key pressed: p
+2025-04-22 07:01:26.226158 - Key pressed: i
+2025-04-22 07:01:26.443484 - Key pressed: n
+2025-04-22 07:01:26.756057 - Special key pressed: Key.backspace
+2025-04-22 07:01:26.910846 - Special key pressed: Key.backspace
+2025-04-22 07:01:27.450841 - Key pressed: o
+2025-04-22 07:01:27.650430 - Key pressed: n
+2025-04-22 07:01:27.824943 - Special key pressed: Key.space
+2025-04-22 07:01:28.295758 - Key pressed: c
+2025-04-22 07:01:28.440558 - Key pressed: l
+2025-04-22 07:01:28.698282 - Key pressed: i
+2025-04-22 07:01:28.916003 - Key pressed: c
+2025-04-22 07:01:29.110790 - Key pressed: k
+2025-04-22 07:01:29.347782 - Key pressed: i
+2025-04-22 07:01:29.566464 - Key pressed: n
+2025-04-22 07:01:29.888866 - Key pressed: g
+2025-04-22 07:01:30.088835 - Special key pressed: Key.space
+2025-04-22 07:01:30.735664 - Key pressed: e
+2025-04-22 07:01:30.969662 - Key pressed: s
+2025-04-22 07:01:31.296347 - Key pressed: c
+2025-04-22 07:01:31.742342 - Key pressed: p
+2025-04-22 07:01:32.209723 - Key pressed: a
+2025-04-22 07:01:32.661901 - Special key pressed: Key.backspace
+2025-04-22 07:01:32.797054 - Special key pressed: Key.backspace
+2025-04-22 07:01:32.875552 - Key pressed: a
+2025-04-22 07:01:33.095054 - Key pressed: o
+2025-04-22 07:01:33.805842 - Special key pressed: Key.backspace
+2025-04-22 07:01:33.969657 - Special key pressed: Key.backspace
+2025-04-22 07:01:34.628490 - Key pressed: a
+2025-04-22 07:01:34.781040 - Key pressed: p
+2025-04-22 07:01:35.823130 - Key pressed: e
+2025-04-22 07:01:36.760442 - Special key pressed: Key.enter
+2025-04-22 07:01:49.697762 - Special key pressed: Key.esc
